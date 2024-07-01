@@ -26,6 +26,8 @@ import androidx.core.app.NotificationManagerCompat
 
 class MainActivity : AppCompatActivity() {
 
+    //TODO setup strings.xml for English and Israel languages
+
     //TODO add progress bar
     //TODO add clean list of reboots button
     private val viewModel: MainViewModel by viewModel()
